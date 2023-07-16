@@ -1,0 +1,43 @@
+.blue {
+  background-color: #2268b4;
+}
+
+.darkBlue {
+  background-color: #184577;
+}
+
+.whiteTxt {
+  color: white;
+}
+
+.flexSpaceBetween {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.margin {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.size30 {
+  height: 200px;
+  width: 31%;
+}
+
+.h200 {
+  height: 200px;
+  width: 100%;
+}
+
+.h600 {
+  height: 600px;
+  width: 100%;
+}

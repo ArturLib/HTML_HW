@@ -1,0 +1,33 @@
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.sizeAndColor {
+  width: 200px;
+  height: 200px;
+  background-color: #f6dbbd;
+}
+
+.rubikPixels {
+  font-family: 'Rubik Pixels', cursive;
+}
+
+.sedgwickAveDisplay {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.dancingScript {
+  font-family: 'Dancing Script', cursive;
+}
+
+.fjallaOne {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.indieFlower {
+  font-family: 'Indie Flower', cursive;
+}
+
+
