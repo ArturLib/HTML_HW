@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+
+.d_flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.section_top {
+  width: 100vw;
+  height: 50vh;
+  background-color: #f57282;
+}
+
+.section_bottom {
+  width: 100vw;
+  height: 50vh;
+  background-color: #000000;
+  color: white;
+}
+
+h2 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
