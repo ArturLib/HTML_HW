@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+}
+
+nav {
+  background-color: rgba(83, 81, 81, 0.10);
+}
+
+a {
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.nav_p_text_style {
+  font-size: 35px;
+  margin: 50px;
+}
+
+.nav_text_color {
+  color: #7A7070;
+}
+
+.color_txt_about {
+  color: #3D6FB4;
+}
+
+main {
+  padding: 70px 106px 148px;
+}
+
+main h2 {
+  font-size: 70px;
+  color: black;
+}
+
+main p {
+  font-size: 35px;
+  color: black;
+}
