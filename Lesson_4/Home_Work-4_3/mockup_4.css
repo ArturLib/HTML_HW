@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.d_flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  width: 100vw;
+  height: 22vh;
+  background-color: #927D7D;
+}
+
+.section_left {
+  width: 20vw;
+  height: 56vh;
+  background-color: #817C7C;
+}
+
+.main_section_top {
+  width: 61vw;
+  height: 12vh;
+  background-color: #CCBEBE;
+}
+
+.main_section_left {
+  width: 12vw;
+  height: 32vh;
+  background-color: #473434;
+}
+
+.main_section_center {
+  width: 36vw;
+  height: 32vh;
+  background-color: #A74848;
+}
+
+.main_section_right {
+  width: 13vw;
+  height: 32vh;
+  background-color: #925A5A;
+}
+
+.main_section_bottom {
+  width: 61vw;
+  height: 12vh;
+  background-color: #CF6262;
+}
+
+.section_right {
+  width: 19vw;
+  height: 56vh;
+  background-color: #B7AEAE;
+}
+
+footer {
+  width: 100vw;
+  height: 22vh;
+  background-color: #BDBDBD;
+}
