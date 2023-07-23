@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 100vw;
+  height: 25vh;
+  background-color: #D9D9D9;
+}
+
+.d_flex {
+  display: flex;
+}
+
+.section_1 {
+  width: 25vw;
+  height: 75vh;
+  background-color: #909090;
+}
+
+.section_2 {
+  width: 25vw;
+  height: 75vh;
+  background-color: #645F5F;
+}
+
+.section_3 {
+  width: 20vw;
+  height: 75vh;
+  background-color: #A59D9D;
+}
+
+.section_4 {
+  width: 20vw;
+  height: 75vh;
+  background-color: #878585;
+}
+
+.section_5 {
+  width: 10vw;
+  height: 75vh;
+  background-color: #4E4444;
+}

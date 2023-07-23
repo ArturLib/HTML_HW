@@ -1,0 +1,77 @@
+.container {
+  width: 30vw;
+  margin: auto;
+  border: 1px solid #d3d2d2;
+}
+
+.d_flex_column {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.d_flex_center {
+  display: flex;
+  justify-content: center;
+}
+
+.padding_left40_right40 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.instagram_style_img {
+  width: 70%;
+  margin: 20px auto;
+}
+
+.facebook_style_icon {
+  width: 1vw;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.color_2f568a {
+  color: #2f568a;
+}
+
+.color_0a93f2 {
+  color: #0a93f2;
+}
+
+.footer_style {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+input {
+  height: 2vw;
+  background-color: #fafafa;
+  border-radius: 5px;
+  border:  1px solid #d3d2d2;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 5px;
+  background-color: #6bb6f7;
+  height: 2vw;
+  border-radius: 5px;
+  border:  1px solid #6bb6f7;
+  color: white;
+}
+
+p, a, button {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 20px;
+}

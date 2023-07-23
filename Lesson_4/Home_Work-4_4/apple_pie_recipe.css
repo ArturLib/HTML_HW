@@ -1,0 +1,49 @@
+body, h2 {
+  margin: 0;
+}
+
+#main_container {
+  width: 1728px;
+  height: 2182px;
+  margin: 140px 80px 63px 80px;
+}
+
+.d_flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.d_flex {
+  display: flex;
+}
+
+.font_style {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+
+.font_size_50 {
+  font-size: 50px;
+}
+
+.font_size_40 {
+  font-size: 40px;
+}
+
+.underlining {
+  border: 1px solid #838383;
+  margin-bottom: 60px;
+}
+
+img {
+  width: 864px;
+  height: 717px;
+  margin-right: 80px;
+}
+
+.ol_list {
+  background-color: rgba(217, 217, 217, 0.30);
+  padding: 38px 46px 16px 80px;
+}
