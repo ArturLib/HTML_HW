@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+.d_flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  width: 98vw;
+  height: 32vh;
+  margin: 1vh 1vw;
+}
+
+.section_B, .section_C, .section_D, .section_E, .section_F, .section_G {
+  width: 23.75vw;
+  height: 32vh;
+}
+
+header, .section_B, .section_C, .section_D, .section_E, .section_F, .section_G, .section_H {
+  background-color: silver;
+  border-radius: 5px;
+  font-size: 3vh;
+}
+
+.margin_right {
+  margin-right: 1vw;
+}
+
+.margin_bottom {
+  margin-bottom: 1vh;
+}
+
+.section_H {
+  width: 23.75vw;
+  height: 65vh;
+}

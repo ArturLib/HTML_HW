@@ -1,0 +1,22 @@
+@media screen and (max-width: 380px) {
+
+  header {
+    height: 10vh;
+  }
+
+  .section_B, .section_C, .section_D, .section_E, .section_F, .section_G {
+    width: 32vw;
+    height: 10vh;
+  }
+
+  .d_column {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .section_H {
+    width: 98vw;
+    margin-top: 1vh;
+  }
+}

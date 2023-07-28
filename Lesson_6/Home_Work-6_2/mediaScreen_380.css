@@ -1,0 +1,30 @@
+@media screen and (max-width: 380px) {
+
+  header {
+    width: 98vw;
+    height: 10vh;
+  }
+
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .section_B {
+    width: 98vw;
+    height: 65vh;
+  }
+
+  .section_C, .section_D, .section_E {
+    width: 32vw;
+    height: 10vh;
+    margin-bottom: 1vh;
+  }
+
+  .section_F {
+    width: 98vw;
+    height: 10vh;
+  }
+}

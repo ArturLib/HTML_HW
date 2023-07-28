@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+header, .section_B, .section_C, .section_D, .section_E, .section_F {
+  background-color: silver;
+  font-size: 3vh;
+  border-radius: 5px;
+}
+
+header {
+  width: 98vw;
+  height: 31vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1vh 1vw;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.flex_container_column {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.display_flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section_B {
+  width: 68.5vw;
+  height: 32.5vh;
+}
+
+.section_C, .section_D, .section_E {
+  width: 22.2vw;
+  height: 32.5vh;
+}
+
+.section_F {
+  width: 28.4vw;
+  height: 66vh;
+}
+
+.margin_left {
+  margin-left: 1vw;
+}
+
+.margin_right {
+  margin-right: 1vw;
+}
+
+.margin_bottom {
+  margin-bottom: 1vh;
+}
